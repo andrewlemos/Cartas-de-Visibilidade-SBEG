@@ -34,6 +34,7 @@
     },
     "homepage": "https://docs.windy-plugins.com/",
     "dependencies": {
+        "@tmcw/togeojson": "^7.1.3",
         "@windycom/plugin-devtools": "^3.0.3"
     }
 }
